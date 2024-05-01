@@ -7,3 +7,8 @@
 ```
 System.out.println("Hello! This is Blesson K Tomy);
 ```
+
+
+- [x] Be active on GitHub
+- [x] Have a Portfolio Website
+- [ ] Study for exams 24x7
